@@ -1,0 +1,47 @@
+*{
+    margin: 0%;
+    padding: 0%;
+}
+#nav{
+    background-image: url(Capture.JPG);
+    height: 300px;
+    width: 100%;
+  padding-top: 100px;
+
+}
+h1{
+    text-align: center;
+    color: white;
+    margin-top: 70px;
+    font-size: 60px;
+    font-family: 'Times New Roman', Times, serif;
+   
+}
+#header{
+    border: 1px solid white;
+    width: 30%;
+    height: 150px;
+    margin-left: 450px;
+    margin-top: 40px;
+    
+}
+menu{
+    display: flex;
+    justify-content: space-evenly;
+    font-size: large;
+}
+ #content{
+    background-color: whitesmoke;
+    height: 60px;
+   
+ }
+ li{
+    margin-top: 25px;
+    list-style-type: none;
+ }
+.img{
+    width: 1000px;
+    padding: 30px;
+    margin-left: 200px;
+    height: 500px;
+ }
